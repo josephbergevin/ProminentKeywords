@@ -6,7 +6,11 @@ ProminentKeywords is a PHP class built to show the most prominently used words i
 Setup
 -----
 
-The ScraperMoreFaster.php file found in the lib folder is the only file needed to use this class.
+The Following Files are Needed for this Class
+-ProminentKeywords.php
+-stopwords.txt
+
+*These files can both be found in the lib folder*
 
 Usage
 -----
