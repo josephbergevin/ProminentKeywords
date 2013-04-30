@@ -20,7 +20,7 @@ Usage
 
 	$pkw->__set('kw_combo_max', 3);
 
-	**This will return list for 1-word, 2-word and 3-word combos**
+**This will return list for 1-word, 2-word and 3-word combos**
 
 ### Return the Prominent Keywords Array
 
