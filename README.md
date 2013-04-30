@@ -7,8 +7,8 @@ Setup
 -----
 
 The Following Files are Needed for this Class
--ProminentKeywords.php
--stopwords.txt
+* ProminentKeywords.php
+* stopwords.txt
 
 *These files can both be found in the lib folder*
 
